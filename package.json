@@ -9,6 +9,7 @@
     "lint:fix": "wotan --fix -p ."
   },
   "dependencies": {
+    "@gridsome/source-graphql": "^0.1.0",
     "gridsome": "^0.6.3",
     "vue-property-decorator": "^7.3.0"
   },
